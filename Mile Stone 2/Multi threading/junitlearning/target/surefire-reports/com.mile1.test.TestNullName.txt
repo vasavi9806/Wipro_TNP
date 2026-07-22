@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mile1.test.TestNullName
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s -- in com.mile1.test.TestNullName
